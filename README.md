@@ -40,7 +40,7 @@
 
 ### 🛠️ One-time setup:
 ```bash
-git clone https://github.com/YOURNAME/YOURREPO.git
+git clone https://github.com/Santhanam2007/sanX-bugbounty-blade.git
 cd sanX-bugbounty-blade
 chmod +x install-bugbounty.sh
 ./install-bugbounty.sh
