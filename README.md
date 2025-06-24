@@ -1,7 +1,7 @@
 <h1 align="center">
 🔥 BUG BOUNTY AUTO INSTALLER 🔥  
 <br>
-🛠️ <span style="color:orange">60+ TOOLS</span> | 💥 <span style="color:red">1-LINER SETUP</span> | 🚀 <span style="color:limegreen">NO JUNK</span>
+🛠️ <span style="color:orange">Powerfull TOOLS</span> | 💥 <span style="color:red">1-LINER SETUP</span> | 🚀 <span style="color:limegreen">NO JUNK</span>
 </h1>
 
 <p align="center">
