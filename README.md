@@ -34,9 +34,6 @@
 
 `subfinder`, `ffuf`, `httpx`, `nuclei`, `naabu`, `katana`, `dnsx`, `waybackurls`, `gau`, `hakrawler`, `gf`, `crlfuzz`, `assetfinder`, `anew`, `qsreplace`, `unfurl`, `gospider`, `gowitness`, and many, many more...
 
-**🚀 60+ tools installed in seconds.**  
-Want Python, Rust, or Node tools too? [Raise an issue](https://github.com/YOURNAME/YOURREPO/issues) 🔥
-
 ---
 
 ## 🧠 Usage
@@ -44,6 +41,6 @@ Want Python, Rust, or Node tools too? [Raise an issue](https://github.com/YOURNA
 ### 🛠️ One-time setup:
 ```bash
 git clone https://github.com/YOURNAME/YOURREPO.git
-cd YOURREPO
+cd sanX-bugbounty-blade
 chmod +x install-bugbounty.sh
 ./install-bugbounty.sh
