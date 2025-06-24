@@ -21,7 +21,7 @@
 
 ## ⚙️ Features
 
-✅ Installs **60+ powerful Go-based tools**  
+✅ Installs **powerful Go-based tools**  
 ✅ No directory creation — pure default Go path  
 ✅ Works on Kali, Ubuntu, Debian, WSL  
 ✅ Fully offline-capable once downloaded  
